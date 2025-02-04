@@ -1,0 +1,3 @@
+C:/Users/paulo/Documents/route-api/build/CMakeFiles/RoutingAPI.dir
+C:/Users/paulo/Documents/route-api/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/paulo/Documents/route-api/build/CMakeFiles/ZERO_CHECK.dir
